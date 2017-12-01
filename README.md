@@ -5,6 +5,8 @@ Team Size - 2
 
 Operating System - Ubuntu
 
+IDE Used - CLion
+
 External libraries - 
   (linux) xorg-dev for GL/gl.h header file.
   (Windows) OpenGL library containing GL/gl.h .
